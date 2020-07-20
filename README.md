@@ -11,6 +11,6 @@ The first step was to sort out the data by separating the employees that are eli
 
 I then determined employees who are eligible to participate in a mentorship program. To be eligible to participate in the mentorship program
 
-![Challenge
+![Challenge7]
 
 
