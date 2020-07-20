@@ -3,7 +3,8 @@
 # Analysis:
 The data we are trying to determine is which of the current employees at Pwelett Hackard are eligible for retirement to determine what positions openings we will create based on this. In addition to this we also analyzed the data to find out how many employees and which ones are eligible for mentoring.
 
-The data was initially only available in separate csv files. First, we built an ERD to understand the relationship between the data
+First, we built an ERD to understand the relationship between the data
+
 ![Challenge7](https://github.com/lrovira/-Pewlett-Hackard-Analysis-/blob/master/EmployeeDB.png)
 
 
