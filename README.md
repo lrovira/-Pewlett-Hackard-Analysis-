@@ -60,4 +60,4 @@ We then determined employees who are eligible to participate in a mentorship pro
     SELECT count(*) INTO challenge2_1 FROM
     challenge2;
 
-
+My recommendation to the company based on the collected data from the analysis is to find out a way to eliminate duplicate names on the list and avoid any discrepancies. By doing this we will be able to ensure that the job titles are accurate on each employee and we will be able to collect the data necessary to find out the job titles that need to be created. 
